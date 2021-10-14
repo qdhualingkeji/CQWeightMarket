@@ -268,8 +268,56 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden; text-align:c
 
 .index6{ display:none; width:100%; overflow:hidden; background:url(../images/section6_bg.jpg) no-repeat center center; background-size:cover;}
 
+.section7{ background:#191a1e; display:block !important; width:100%; height:auto !important; overflow:hidden;}
+.section7 .fp-tableCell{ display:block !important; width:100%; height:auto !important;}
+.section7_1{ width:100%; height:229px; background:url(../images/section7_bg.jpg) top center no-repeat;}
+.section7_1 ul{ width:1200px; height:229px; margin:0 auto; opacity:0; position:relative; left:-300px;}
+.section7_1 li{ float:left; width:230px; height:152px; border:1px solid #5e5e60; margin:39px 4px 0 4px; background:url(../images/section7_2.png) repeat; position:relative;}
+.section7_2{ position:absolute; top:-1px; left:-1px; z-index:1;}
+.section7_3{ width:100%; font-size:20px; color:#FFF; height:40px; line-height:20px; margin-top:31px; position:relative;}
+.section7_3 span{ position:absolute; width:32px; height:2px; background:#ef0b0a; bottom:0; left:50%; margin-left:-16px;}
+.section7_4{ width:100%; font-size:12px; color:#a5a5a6; line-height:22px; margin-top:17px;}
+.section7_5{ width:100%; background:#25262a; padding:22px 0;}
+.section7_6{ width:1200px; margin:0 auto; overflow:hidden; opacity:0; position:relative; left:300px;}
+.section7_6 ul{ width:970px; float:left; overflow:hidden;}
+.section7_6 ul li{ float:left; line-height:26px; font-size:14px; color:#FFF; font-weight:bold; padding-right:25px;}
+.section7_6 ul li a{ color:#bababb; font-weight:normal;}
+.section7_6 ul li a:hover{ text-decoration:underline;}
+.section7_7{ float:right; height:26px; line-height:26px; font-size:20px; color:#FFF; font-weight:bold; background:url(../images/section7_3.png) left center no-repeat; padding-left:35px;}
+.section7_8{ width:1200px; overflow:hidden; margin:0 auto; padding:60px 0; opacity:0; position:relative; left:-300px;}
+.section7_9{ float:left; text-align:left; margin-right:45px;}
+.section7_9_1{ display:block;}
+.section7_10{ float:left; font-size:14px; font-weight:bold; color:#FFF; height:42px; line-height:14px; position:relative;}
+.section7_10 span{ display:block; width:70px; height:1px; background:#5f5f62; bottom:0; left:0; position:absolute;}
+.section7_11{ float:left; overflow:hidden; clear:both; margin-top:10px;}
+.section7_11 li{ float:left; height:30px; clear:both;}
+.section7_11 li a{ float:left; display:block; color:#a5a5a6; line-height:20px; margin-top:5px;}
+.section7_11 li a:hover{ text-decoration:underline;}
+.section7_12{ float:left; clear:both; margin-top:10px;}
+.section7_12 li{ float:left; clear:both; color:#a5a5a6; height:30px; line-height:30px; padding-left:28px; max-width:200px;}
+.section7_12_1{ background:url(../images/section7_4.png) left 7px no-repeat;}
+.section7_12_2{ background:url(../images/section7_5.png) 2px 7px no-repeat;}
+.section7_12_3{ background:url(../images/section7_6.png) left 7px no-repeat;}
+.section7_12_4{ background:url(../images/section7_7.png) left 10px no-repeat;}
+.section7_12_5{ background:url(../images/section7_8.png) left 7px no-repeat;}
+.section7_13{ float:right; width:159px;}
+.section7_14{ float:left; display:block;}
+.section7_15{ float:left; width:159px; height:50px; line-height:50px; color:#a5a5a6;}
+.section7_bottom{ width:100%; overflow:hidden; background:url(../images/section7_10.jpg) top center repeat-y;}
+.section7_bottom1{ width:1200px; margin:0 auto; overflow:hidden; font-size:14px; line-height:24px; padding:18px 0;}
+.section7_bottom2{ float:left; width:50%; color:#FFF; text-align:left; opacity:0; position:relative; left:-300px;}
+.section7_bottom3{ float:right; width:50%; color:#666666; text-align:right;opacity:0; position:relative; left:300px;}
+.section7_bottom3 a{ color:#666;}
+
+.index7{ display:none; width:100%; overflow:hidden; background:#191a1e;}
+
 /* about css */
 .nav_blank{ width:100%; height:106px; clear:both; display:block;}
+.section7_in{ display:block;}
+.section7_in .section7_6{ width:1200px; margin:0 auto; overflow:hidden; opacity:1; position:relative; left:0;}
+.section7_in .section7_8{ width:1200px; overflow:hidden; margin:0 auto; padding:60px 0; opacity:1; position:relative; left:0;}
+.section7_in .section7_bottom2{ float:left; width:50%; color:#FFF; text-align:left; opacity:1; position:relative; left:0;}
+.section7_in .section7_bottom3{ float:right; width:50%; color:#666666; text-align:right;opacity:1; position:relative; left:0;}
 
 .banner{ width:100%; height:380px; overflow:hidden; display:block;}
 .banner_mobile{ display:none; width:100%; overflow:hidden;}
