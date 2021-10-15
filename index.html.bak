@@ -12,6 +12,7 @@
 <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
 
 <script type="text/javascript" src="js/swiper.js"></script>
+<link type="text/css" rel="stylesheet" href="css/index.css" />
 <link rel="stylesheet" type="text/css" href="css/swiper.css"/>
 
 <script type="text/javascript" src="js/wow.min.js"></script>
@@ -444,79 +445,45 @@ $(".nav_out_close").click( function () {
    	</div>
 
 	<div class="section section2">
+		<!--
         <img src="images/section2_title.png" class="title2" alt="智能称重解决方案" />
-		<div class="slideTxtBox">
-			<div class="hd">
-				<ul>
-                    <li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=110" target="_self" style="display:block; width:100%; height:100%;">车辆自动称重系统</a>
-					</li>
-                    <li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=28" target="_self" style="display:block; width:100%; height:100%;">无人值守称重系统</a>
-					</li>
-                    <li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=109" target="_self" style="display:block; width:100%; height:100%;">大宗物资产品管理系统</a>
-					</li>
-                    <li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=108" target="_self" style="display:block; width:100%; height:100%;">智能称重管理系统</a>
-					</li>
-                    <li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=111" target="_self" style="display:block; width:100%; height:100%;">云端称重管理系统</a>
-					</li>
-                    
-                    <li><a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=112" target="_self" style="display:block; width:100%; height:100%;">
-                    企业物流一卡通智能系统</a></li>
-                    
-                </ul>
-			</div>
-			<div class="bd">
-				<ul>
-					<li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=110" target="_self">
-							<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
-						</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=28" target="_self">
-							<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
-						</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=109" target="_self">
-							<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
-						</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=108" target="_self">
-							<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
-						</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=111" target="_self">
-							<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
-						</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						<a href="http://www.dljmhq.com/Product/Content.aspx?ProductId=112" target="_self">
-							<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
-						</a>
-					</li>
-				</ul>
-			</div>
+		-->
+		<div class="title2">无人值守系统架构</div>
+		<div class="content_div">
+			<img src="UserFiles/FriendLink/image/20190729/20190729132257_3411.png" alt="无人值守车辆自动称重系统" />
 		</div>
-		<script type="text/javascript">jQuery(".slideTxtBox").slide();</script>
-        <div class="next_screen">
-			<img src="images/mouse.png" />
+	</div>
+
+	<div class="cpjs_div">
+		<div class="title_div">产品介绍</div>
+		<div class="content_div">
+			<div class="img_div">
+				<img src="UserFiles/FriendLink/image/20211015/202110150001.png"/>
+				<img class="right_img" src="UserFiles/FriendLink/image/20211015/202110150002.png"/>
+			</div>
+			<div class="sm_list_div">
+				<div class="item_div">
+					<div class="item_img_div">
+						<img src="UserFiles/FriendLink/image/20211015/202110150003.png"/>
+					</div>
+					<div class="item_tit_div">软件介绍</div>
+					<div class="item_cont_div">系统采用了先进的射频技术、通讯自动化、云计算等先进技术，针对物资进出厂物流以及计量收货等环节，进行程序化计量集中管理控制。</div>
+				</div>
+				<div class="item_div jjxy_item_div">
+					<div class="item_img_div">
+						<img src="UserFiles/FriendLink/image/20211015/202110150004.png"/>
+					</div>
+					<div class="item_tit_div">经济效益</div>
+					<div class="item_cont_div">降低人工成本：减少计量人员<br>降低风险成本：杜绝跑冒滴漏<br>降低管理成本：闭环管理<br>降低时间成本：缩短过磅时间，提高发运效率。</div>
+				</div>
+				<div class="item_div xttd_item_div">
+					<div class="item_img_div">
+						<img src="UserFiles/FriendLink/image/20211015/202110150005.png"/>
+					</div>
+					<div class="item_tit_div">系统特点</div>
+					<div class="item_cont_div">流程规范化：优化流程规范管理配置标准化：标准化系统配置加强系统实用性和可扩展性。信息电子化：实现企业内外信息资源互联互通。业务集成化：系统应用数据集成</div>
+				</div>
+			</div>
 		</div>
 	</div>
 

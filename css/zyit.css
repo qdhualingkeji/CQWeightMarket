@@ -5,7 +5,7 @@ a{ text-decoration:none;}
 li{ list-style:none;}
 table,tr,td,ul,li,dl,dt,dd,div{ border:0;}
 img{ border:0;}
-body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden; text-align:center;}
+body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 .float_l{ float:left !important;}
 .float_r{ float:right !important;}
 .blank0{ width:100%; height:0px; clear:both;}
@@ -78,7 +78,11 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden; text-align:c
 .index1{ display:none; width:100%; overflow:hidden;}
 
 .section2{ background:url(../images/section2_bg.jpg) center center no-repeat;margin-top:50px; background-size:cover;}
-.title2{ height:17%; clear:both; margin:0 auto; display:block; opacity:1; position:relative; left:0px;}
+.title2{ width:816px;height:50px;line-height:50px;margin:0 auto;font-size:30px;}
+.section2 .content_div{
+	width:816px;text-align:center;margin:30px auto;
+}
+
 /* 本例子css */
 .slideTxtBox{ width:1100px; margin:1% auto; overflow:hidden; opacity:1; position:relative; left:0px;}
 .slideTxtBox .hd{ float:left; width:100%; overflow:hidden;}
@@ -90,7 +94,7 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden; text-align:c
 .slideTxtBox .bd{ float:left; width:100%; overflow:hidden; padding:15px 0;}
 .slideTxtBox .bd ul{ float:left; width:100%; overflow:hidden; zoom:1;}
 .slideTxtBox .bd li{ width:100%; overflow:hidden;}
-.slideTxtBox .bd li img{ display:block; max-width:100%;}
+.slideTxtBox .bd li img{  margin:0 auto;display:block;}
 .next_screen{ width:29px; height:81px; margin:0 auto; cursor:pointer; opacity:1; position:relative; top:0px;}
 .next_screen img{ -webkit-animation:play 2s linear infinite; -moz-animation:play 2s linear infinite; -ms-animation:play 2s linear infinite; -0-animation:play 2s linear infinite; animation:play 2s linear infinite;}
 .next_screen1 img{ -webkit-animation:play 2s linear infinite; -moz-animation:play 2s linear infinite; -ms-animation:play 2s linear infinite; -0-animation:play 2s linear infinite; animation:play 2s linear infinite;}
