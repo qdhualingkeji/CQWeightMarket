@@ -288,6 +288,7 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 .class_nav .about_nav li a:hover{ background:#d7000f; color:#FFF;}
 .class_nav .about_nav li .a_on{ background:#d7000f; color:#FFF;}
 
+/*
 .about_title{ width:1200px; margin:60px auto 0 auto; height:60px; overflow:hidden;}
 .about_title1{ float:left; height:60px; width:508px; background:url(../images/title_l.png) right 17px no-repeat;}
 .about_title2{ float:left; width:184px; height:60px;}
@@ -308,6 +309,7 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 .about_2_2_3{ margin-top:45px;}
 .about_2_3{ width:50%; overflow:hidden;}
 .about_2_3 img{ display:block; max-width:100%;}
+*/
 
 /* about1 css */
 .about1{ width:1170px; margin:0 auto; overflow:hidden; padding:65px 0 90px 0;}

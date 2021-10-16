@@ -1,0 +1,66 @@
+.logo_div{
+	width:100%;
+	height:380px;
+	background: rgba(0, 0, 0, 0) url("../UserFiles/FriendLink/image/20190807/20190807153606_3378.jpg") no-repeat scroll center center;
+	visibility: visible;
+	animation-duration: 1s;
+	animation-delay: 0.3s;
+	animation-name: zoomIn;
+}
+
+.about_title{
+	width:1200px;
+	height:60px;
+	margin:60px auto 0;
+}
+.case_title1{
+    height: 60px;
+    width: 458px;
+    background: url(../images/title_l.png) right 17px no-repeat;
+}
+.case_title2 {
+    float: left;
+    width: 284px;
+    height: 60px;
+}
+.about_title2_1 {
+    width: 100%;
+    height: 35px;
+    font-size: 35px;
+    color: #333;
+    line-height: 35px;
+	text-align:center;
+}
+.about_title2_2 {
+    width: 100%;
+    line-height: 14px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: "Arial";
+    color: #666;
+	text-align:center;
+}
+.case_title3 {
+    float: right;
+    height: 60px;
+    width: 458px;
+    background: url(../images/title_r.png) left 17px no-repeat;
+}
+.cxtcl_div{
+	width:1200px;height:337px;margin:0 auto;
+}
+.cxtcl_div .title_div{
+	
+}
+.cxtcl_img{
+	width:600px;
+}
+.cxtcl_div .new_div{
+	width:600px;height:337px;margin-top:-337px;margin-left:600px;
+}
+.cxtcl_div .xmgk_div{
+	width:120px;height:40px;line-height:40px;margin:10px 0 15px 60px;color:#fff;font-size:20px;text-align:center;background-color:#ED7C2F;border-radius:5px;
+}
+.cxtcl_div .row_div{
+	width:540px;height:35px;line-height:35px;margin-left:60px;color:#666;font-size:20px;
+}
