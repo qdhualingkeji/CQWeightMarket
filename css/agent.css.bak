@@ -1,0 +1,86 @@
+.qdfzjh_div{
+	width:100%;margin-top:150px;background-color:#f7f7f7;padding:1px;
+}
+.qdfzjh_div .title_div{
+	width:1200px;height:50px;line-height:50px;margin:30px auto;font-size:30px;
+}
+.qdfzjh_div .img_div{
+	width:1200px;margin:0 auto;
+}
+.qdfzjh_div .img_div img{
+	width:100%;
+}
+.dljmms_div{
+	width:100%;background-color:#fff;padding:1px;
+}
+.dljmms_div .title_div{
+	width:1200px;height:50px;line-height:50px;margin:30px auto;font-size:30px;
+}
+.dljmms_div .content_div{
+	width:1200px;margin:0 auto;
+}
+.dljmms_div .content_div .left_div{
+	width:300px;height:430px;text-align:center;
+}
+.dljmms_div .content_div .left_div img{
+	width:173px;height:173px;margin-top:20px;
+}
+.dljmms_div .content_div .left_div .text_div{
+	width:250px;height:50px;line-height:50px;margin:20px auto 0;color:#fff;font-size:25px;background-color:#484849;
+}
+.dljmms_div .content_div .right_div{
+	width:900px;height:430px;margin-top:-430px;margin-left:300px;
+}
+.dljmms_div .content_div .right_div .num_list_div{
+	width:50px;height:430px;background-color:#00f;
+}
+.dljmms_div .content_div .right_div .num_list_div .item_div{
+	width:50px;height:50px;line-height:50px;color:#fff;font-size:25px;text-align:center;border-radius:3px;
+}
+.dljmms_div .content_div .right_div .num_list_div .line_div{
+	width:2px;height:80px;margin:0 auto;background-color:#000;
+}
+.dljmms_div .content_div .right_div .num_list_div .num1_div{
+	background-color:#000;
+}
+.dljmms_div .content_div .right_div .num_list_div .num2_div{
+	background-color:#7CCA62;
+}
+.dljmms_div .content_div .right_div .num_list_div .num3_div{
+	background-color:#FF9900;
+}
+.dljmms_div .content_div .right_div .jmms_list_div{
+	width:800px;height:430px;margin-top:-430px;margin-left:80px;
+}
+.dljmms_div .content_div .right_div .jmms_list_div .jmms2_div,.dljmms_div .content_div .right_div .jmms_list_div .jmms3_div{
+	margin-top:30px;
+}
+.dljmms_div .content_div .right_div .jmms_list_div .item_div .tit_div{
+	height:40px;color:#595959;font-size:25px;
+}
+.dljmms_div .content_div .right_div .jmms_list_div .item_div .cont_div .row_div{
+	color:#595959;font-size:20px;
+}
+
+.foot_div{
+	width:100%;height:282px;background-color:#1F232A;
+}
+.foot_div .content_div{
+	width:1340px;height:230px;margin:0 auto;
+}
+.foot_div .space_div{
+	height:25px;
+}
+.foot_div .row_div{
+	font-size: 15px;color: #FFFFFF;line-height: 45px;text-align:left;letter-spacing: 0;
+}
+.foot_div .bah_div{
+	width:1440px;
+	font-size: 14px;
+	color: #999;
+	text-align: center;
+	letter-spacing: 0;
+	margin:0 auto;
+	padding-top:15px;
+	border-top:#999 solid 1px;
+}
