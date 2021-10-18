@@ -21,20 +21,20 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 /*首页*/
 .center{ width:1200px; margin:0 auto;}
 
-.header{ width:100%; height:106px; background:url(../images/header_bg.jpg) top center no-repeat; position:fixed; left:0; top:0; z-index:100; display:block;}
-.logo{ display:block; position:absolute; left:3%; top:21px;}
-.nav{ position:absolute; top:0; left:35%; width:808px; height:105px;}
+.header{ width:100%; height:80px; background:url(../images/header_bg.jpg) top center no-repeat; position:fixed; left:0; top:0; z-index:100; display:block;}
+.logo{width: 280px;height:80px;}
+.nav{ position:absolute; top:0; left:35%; width:808px; height:80px;}
 .nav li{ float:left; width:100px; margin-left:1px;}
-.nav li a{ display:block; width:100px; height:105px; line-height:105px; font-size:16px; color:#FFF; position:relative; overflow:hidden;}
+.nav li a{ display:block; width:100px; height:80px; line-height:80px; font-size:16px; color:#FFF; position:relative; overflow:hidden;}
 .nav li .a_on{ color:#ff0000; font-weight:bold;}
-.nav li a .span1{ display:block; width:100%; height:105px; position:absolute; top:0; left:0; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -ms-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s;}
-.nav li a .span2{ display:block; width:100%; height:105px; position:absolute; top:105px; left:0; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -ms-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s;}
+.nav li a .span1{ display:block; width:100%; height:80px; position:absolute; top:0; left:0; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -ms-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s;}
+.nav li a .span2{ display:block; width:100%; height:80px; position:absolute; top:80px; left:0; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -ms-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s;}
 .nav li a:hover .span1{ top:-105px; color:#ff0000; font-weight:bold;}
 .nav li a:hover .span2{ top:0; color:#ff0000; font-weight:bold;}
 .nav li .a_on:hover .span1{ top:0;}
-.nav li .a_on:hover .span2{ top:105px;}
+.nav li .a_on:hover .span2{ top:80px;}
 
-.header_r{ position:absolute; right:3%; top:43px;}
+.header_r{ position:absolute; right:3%; top:30px;}
 .header_r1{ float:right; display:block; width:34px; height:20px; line-height:20px; font-size:16px; color:#FFF; text-align:left; background:url(../images/header1.png) right 7px no-repeat; margin-right:15px;}
 .header_r2{ float:right; width:20px; height:20px; background:url(../images/header2.png) no-repeat center center; cursor:pointer;}
 .header_r3{ display:none; position:absolute; top:26px; right:0; width:200px; height:24px; border:1px solid #FFF; -webkit-border-radius:12px; -moz-border-radius:12px; border-radius:12px;}
