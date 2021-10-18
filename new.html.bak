@@ -40,7 +40,7 @@
             <input id="btnProductSearch" type="button" onClick="Search()" class="header_r3_2" />
         </div>
         <div class="header_r4"></div>
-        <a href="/?f=indexEn" class="header_r1">EN</a>
+        <a class="header_r1">EN</a>
     </div>
     <div class="header_close"></div>
 </div>
