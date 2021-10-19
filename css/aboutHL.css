@@ -12,10 +12,10 @@
 }
 
 .qyzz_div{
-	width:100%;margin-top:10px;
+	width:100%;margin-top:10px;background-color: #f7f7f7;padding:1px;
 }
 .qyzz_div .zs_list_div{
-	width:800px;margin:0 auto;
+	width:800px;margin:30px auto;
 }
 .qyzz_div .zs_list_div .item_div{
 	width:260px;height:340px;text-align:center;border:#147EE5 solid 2px;

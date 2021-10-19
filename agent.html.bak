@@ -28,7 +28,7 @@
 			<a href="new.html" id="cpzx"><span class="span1">新闻动态</span><span class="span2">新闻动态</span></a>
 		</li>
         <li>
-			<a href="/News/List.aspx?ClassId=2" id="jmdt"><span class="span1">关于华凌</span><span class="span2">关于华凌</span></a>
+			<a href="aboutHL.html" id="jmdt"><span class="span1">关于华凌</span><span class="span2">关于华凌</span></a>
 		</li>
     </ul>
     <div class="header_r">
@@ -47,7 +47,33 @@
 <div class="qdfzjh_div">
 	<div class="title_div">渠道发展计划</div>
 	<div class="img_div">
-		<img src="UserFiles/FriendLink/image/20211015/202110150008.png">
+		<img src="UserFiles/FriendLink/image/20211015/aaa.png">
+	</div>
+	<div class="content_div">
+		<div class="people_div">
+			<img class="people1_img" src="UserFiles/FriendLink/image/20211015/202110150008.png">
+			<img class="people2_img" src="UserFiles/FriendLink/image/20211015/202110150021.png">
+		</div>
+		<img class="point1_img" src="UserFiles/FriendLink/image/20211015/202110150022.png">
+		<img class="point2_img" src="UserFiles/FriendLink/image/20211015/202110150023.png">
+		<img class="point3_img" src="UserFiles/FriendLink/image/20211015/202110150024.png">
+		<div class="people_count_div pc1_div">
+			<img src="UserFiles/FriendLink/image/20211015/202110150025.png">
+			<div class="count_div">500</div>
+		</div>
+		<div class="people_count_div pc2_div">
+			<img src="UserFiles/FriendLink/image/20211015/202110150025.png">
+			<div class="count_div">200</div>
+		</div>
+		<div class="people_count_div pc3_div">
+			<img src="UserFiles/FriendLink/image/20211015/202110150025.png">
+			<div class="count_div">10</div>
+		</div>
+		<div class="peo_desc_div qgfz_div">全国发展500家代理商，覆盖全国三线以上城市</div>
+		<div class="peo_desc_div dzcg_div">打造超过200人工程技术服务团队，随时为代理商提供技术支持。</div>
+		<div class="peo_desc_div qgyexcs_div">全国一二线城市10个办事处，负责各地区招商，售后事宜。</div>
+		<div class="cxjd_div" style="width:440px;height:545px;margin-top:-500px;margin-left:750px;background:url(UserFiles/FriendLink/image/20211015/202110150026.png) top center no-repeat;">
+		</div>
 	</div>
 </div>
 <div class="dljmms_div">
