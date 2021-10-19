@@ -8,9 +8,6 @@
 .qdfzjh_div .img_div{
 	width:1200px;margin:0 auto;
 }
-.qdfzjh_div .img_div img{
-	width:100%;
-}
 
 .qdfzjh_div .content_div{
 	width:1200px;margin:0 auto;
@@ -61,7 +58,25 @@
 	margin-top:143px;
 }
 .qdfzjh_div .content_div .cxjd_div{
-	width:440px;height:545px;margin-top:-500px;margin-left:750px;background:url(UserFiles/FriendLink/image/20211015/202110150026.png) top center no-repeat;
+	width:440px;height:545px;margin-top:-500px;margin-left:750px;background:url(../UserFiles/FriendLink/image/20211015/202110150026.png) top center no-repeat;
+}
+.qdfzjh_div .content_div .cxjd_div .title_bg_img{
+	margin-top:40px;margin-left:-10px;
+}
+.qdfzjh_div .content_div .cxjd_div .title_text_div{
+	width:180px;height:60px;line-height:60px;margin-top:-63px;color:#fff;font-size:30px;text-align:center;
+}
+.qdfzjh_div .content_div .cxjd_div .jd_list_div{
+	width:380px;margin:0 auto;padding:1px;
+}
+.qdfzjh_div .content_div .cxjd_div .jd_list_div .jd_item_div{
+	font-size:20px;margin-top:20px;
+}
+.qdfzjh_div .content_div .cxjd_div .jd_list_div .jd_item_div .jd_tit_span{
+	font-weight:bold;
+}
+.qdfzjh_div .content_div .cxjd_div .jd_list_div .jd_item_div .jd_cont_span{
+	color: #595959;
 }
 
 .dljmms_div{

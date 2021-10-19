@@ -72,7 +72,23 @@
 		<div class="peo_desc_div qgfz_div">全国发展500家代理商，覆盖全国三线以上城市</div>
 		<div class="peo_desc_div dzcg_div">打造超过200人工程技术服务团队，随时为代理商提供技术支持。</div>
 		<div class="peo_desc_div qgyexcs_div">全国一二线城市10个办事处，负责各地区招商，售后事宜。</div>
-		<div class="cxjd_div" style="width:440px;height:545px;margin-top:-500px;margin-left:750px;background:url(UserFiles/FriendLink/image/20211015/202110150026.png) top center no-repeat;">
+		<div class="cxjd_div">
+			<img class="title_bg_img" src="UserFiles/FriendLink/image/20211015/202110150027.png">
+			<div class="title_text_div">创新解读</div>
+			<div class="jd_list_div">
+				<div class="jd_item_div">
+					<span class="jd_tit_span">技术：</span>
+					<span class="jd_cont_span">技术创新伴随华凌科技的整个成长史，从每一个项目中切实调研客户需求，探索智能化发展新方向。</span>
+				</div>
+				<div class="jd_item_div">
+					<span class="jd_tit_span">模式：</span>
+					<span class="jd_cont_span">华凌提供优质的软硬件平台，建立强大的分销模式，将完善的智能化系统推向市场。</span>
+				</div>
+				<div class="jd_item_div">
+					<span class="jd_tit_span">服务：</span>
+					<span class="jd_cont_span">专业的商务和技术团队坚持不懈为用户和代理商提供周到服务。</span>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
