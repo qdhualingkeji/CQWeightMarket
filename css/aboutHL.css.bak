@@ -4,11 +4,83 @@
 .gsjj_div .right_img{
 	margin-top: 90px;margin-left: -569px;position:absolute;z-index:1;
 }
-.title_div{
+.gsjj_div .title_div{
 	margin-top:-430px;margin-left: 880px;color:#0F6FC6;font-size:25px;font-weight:bold;position: absolute;z-index: 1;
 }
-.content_div{
+.gsjj_div .content_div{
 	width: 475px;line-height:40px;margin-top: -350px;margin-left: 700px;color:#fff;font-size:20px;position: absolute;z-index: 1;
+}
+
+.qyzz_div{
+	width:100%;margin-top:10px;
+}
+.qyzz_div .zs_list_div{
+	width:800px;margin:0 auto;
+}
+.qyzz_div .zs_list_div .item_div{
+	width:260px;height:340px;text-align:center;border:#147EE5 solid 2px;
+}
+.qyzz_div .zs_list_div .item2_div{
+	margin-top:-344px;
+	margin-left:280px;
+}
+.qyzz_div .zs_list_div .item3_div{
+	margin-top:-344px;
+	margin-left:560px;
+}
+.qyzz_div .zs_list_div .item1_div img{
+	width:226px;height:307px;margin-top:15px;
+}
+.qyzz_div .zs_list_div .item2_div img{
+	width:225px;height:303px;margin-top:17px;
+}
+.qyzz_div .zs_list_div .item3_div img{
+	width:227px;height:309px;margin-top:14px;
+}
+.qyzz_div .jbsb_div{
+	width:800px;height:307px;margin:10px auto 0;
+}
+.qyzz_div .jbsb_div .jb_div{
+	width:400px;height:300px;
+}
+.qyzz_div .jbsb_div .jb_div .jb1_img{
+	width:200px;height:276px;margin-left:33px;
+}
+.qyzz_div .jbsb_div .jb_div .jb2_img{
+	width:400px;height:220px;margin-top:-300px;
+}
+.qyzz_div .jbsb_div .sb_list_div{
+	width:400px;height:100px;background-color:#0f0;margin-top:-200px;margin-left:400px;
+}
+.qyzz_div .jbsb_div .sb_list_div .item_div{
+	width:33%;height:100px;text-align:center;
+}
+.qyzz_div .jbsb_div .sb_list_div .gxq_div{
+	margin-top:-100px;margin-left:33%;
+}
+.qyzz_div .jbsb_div .sb_list_div .sds_div{
+	margin-top:-100px;margin-left:66%;
+}
+.qyzz_div .jbsb_div .sb_list_div .iso_div img{
+	width:52px;height:46px;
+}
+.qyzz_div .jbsb_div .sb_list_div .gxq_div img{
+	width:46px;height:46px;
+}
+.qyzz_div .jbsb_div .sb_list_div .sds_div img{
+	width:53px;height:43px;
+}
+.qyzz_div .jbsb_div .sb_list_div .item_div .text_div{
+	padding:0 10px 0 10px;color:#666;font-size:15px;
+}
+.qyzz_div .jbsb_div .sb_list_div .iso_div .text_div{
+	margin-top:10px;
+}
+.qyzz_div .jbsb_div .sb_list_div .gxq_div .text_div{
+	margin-top:20px;
+}
+.qyzz_div .jbsb_div .sb_list_div .sds_div .text_div{
+	margin-top:23px;
 }
 
 .dituContent_div{
