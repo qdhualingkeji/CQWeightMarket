@@ -74,7 +74,7 @@
 }
 
 .xtywlc_div{
-	width:100%;height:752px;background-color:#fff;padding:1px;
+	width:100%;height:1504px;background-color:#fff;padding:1px;
 }
 .xtywlc_div .title_div{
 	width:1236px;height:50px;line-height:50px;margin:30px auto;font-size:30px;
@@ -82,6 +82,10 @@
 .xtywlc_div .content_div{
 	width:1236px;height:642px;margin:0 auto;
 }
+.xtywlc_div .content_div .xtywlct_img{
+	width:87px;height:469px;margin-left:50px;
+}
+
 
 .foot_div{
 	width:100%;height:282px;background-color:#1F232A;
