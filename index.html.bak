@@ -9,9 +9,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
 <script type="text/javascript" src="js/jquery.min.js"></script>
+<!--
 <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
 
 <script type="text/javascript" src="js/swiper.js"></script>
+-->
 <link type="text/css" rel="stylesheet" href="css/index.css" />
 <link rel="stylesheet" type="text/css" href="css/swiper.css"/>
 
@@ -20,7 +22,16 @@
 
 <script src="js/index.js"></script>
 <script type="text/javascript">
-   
+function openGkspBgDiv(flag){
+	if(flag==1){
+		$(".video-bg").css("display","block");
+		$(".video-box").css("display","block");
+	}
+	else{
+		$(".video-bg").css("display","none");
+		$(".video-box").css("display","none");
+	}
+}
 </script>
 <!--
 <script type="text/javascript">
@@ -289,6 +300,16 @@ else{
     <div class="header_close"></div>
 </div>
 
+<div class="video-bg"></div>
+<div class="video-box">
+    <div class="video_lr">
+        <video controls="" preload="none" x5-playsinline="" playsinline="" webkit-playsinline="">
+			<source src="UserFiles/FriendLink/embed/202011240037.mp4">
+        </video>
+        <div class="video-close" onclick="openGkspBgDiv(0)">X</div>
+    </div>
+</div>
+
 <div id="scroll">
 	<div class="section section1 fp-section fp-table active">
         <div id="focusBar">
@@ -308,10 +329,9 @@ else{
                 <li id="focusIndex2" style="background:url(UserFiles/Product/image/20190726/20190726153749_4181.jpg) no-repeat center center; background-size:cover;">
                     <div class="focusL">&nbsp;</div>
                     <div class="focusR">
-                        <a href="" target="_blank">
-							<img height="700" src="UserFiles/Product/image/20200514/20200514154250_1603.png" width="1280" alt="" />
-						</a>
+						<img height="700" src="UserFiles/Product/image/20200514/20200514154250_1603.png" width="1280" alt="" />
                     </div>
+					<div class="spys_but_div" onclick="openGkspBgDiv(1)"></div>
                 </li>
                 
                 <li id="focusIndex3" style="background:url(UserFiles/Product/image/20200514/20200514164732_7531.jpg) no-repeat center center; background-size:cover;">
@@ -559,9 +579,6 @@ else{
 	<div class="xtywlc_div">
 		<div class="title_div">系统业务流程</div>
 		<div class="content_div">
-			<!--
-			<img src="UserFiles/FriendLink/image/20211015/aaa.png" alt="无人值守车辆自动称重系统" />
-			-->
 			<img class="xtywlct_img" src="UserFiles/FriendLink/image/20211015/202110150007.png" />
 			<div class="left_list_div">
 				<div class="item_div">
