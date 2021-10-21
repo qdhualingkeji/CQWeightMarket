@@ -28,7 +28,7 @@
 			<a href="new.html" id="cpzx"><span class="span1">新闻动态</span><span class="span2">新闻动态</span></a>
 		</li>
         <li>
-			<a href="/News/List.aspx?ClassId=2" id="jmdt"><span class="span1">关于华凌</span><span class="span2">关于华凌</span></a>
+			<a href="aboutHL.html" id="jmdt"><span class="span1">关于华凌</span><span class="span2">关于华凌</span></a>
 		</li>
     </ul>
     <div class="header_r">
@@ -95,6 +95,33 @@
 			<div class="row_div">红外防作弊功能，自动过磅卸车。</div>
 			<div class="row_div">自动打印小票。</div>
 			<div class="row_div">系统自动读取重量信息上传至服务器，实现无人值守智能化管理。</div>
+		</div>
+	</div>
+</div>
+
+<div class="img_list_div">
+	<div class="item_div">
+		<div class="img_div">
+			<img src="UserFiles/Product/image/20200423/202004230004.png">
+			<div class="text_div">
+				德州新材料有限公司
+			</div>
+		</div>
+	</div>
+	<div class="item_div cxtcl_div">
+		<div class="img_div">
+			<img src="UserFiles/Product/image/20200423/202004230001.png">
+			<div class="text_div">
+				创新炭材料有限公司
+			</div>
+		</div>
+	</div>
+	<div class="item_div cxtcl_div">
+		<div class="img_div">
+			<img src="UserFiles/Product/image/20200423/202004230005.png">
+			<div class="text_div">
+				索通碳素有限公司
+			</div>
 		</div>
 	</div>
 </div>

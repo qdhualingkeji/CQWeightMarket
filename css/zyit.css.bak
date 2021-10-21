@@ -22,7 +22,7 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 .center{ width:1200px; margin:0 auto;}
 
 .header{ width:100%; height:80px; background:url(../images/header_bg.jpg) top center no-repeat; position:fixed; left:0; top:0; z-index:100; display:block;}
-.logo{width: 196px;height:70px;left: 2%;position: absolute;}
+.logo{width: 196px;height:70px;margin-top: 5px;left: 2%;position: absolute;}
 .nav{ position:absolute; top:0; left:35%; width:808px; height:80px;}
 .nav li{ float:left; width:100px; margin-left:1px;}
 .nav li a{ display:block; width:100px; height:80px; line-height:80px; font-size:16px; color:#FFF; position:relative; overflow:hidden;}
@@ -228,11 +228,11 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 .section6_1 li{ float:left; margin:0 3px;}
 .section6_1 li a{ display:block; width:112px; height:35px; line-height:35px;text-align:center; border:1px solid #999999; font-size:16px; color:#999999; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -ms-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s;}
 .section6_1 li a:hover{ background:#d7000f; color:#FFF; border:1px solid #d7000f;}
-.section6_2{ width:1170px; height:342px; margin:2% auto 0 auto; background:url(../images/section6_4.png) no-repeat left 52px; position:relative; opacity:1; position:relative; left:0px;}
+.section6_2{ width:1170px; height:385px; margin:2% auto 0 auto; background:url(../images/section6_4.png) no-repeat left 72px; position:relative; opacity:1; position:relative; left:0px;}
 
 .swiper-container3 {
 	width: 700px;
-	height: 342px;
+	height: 385px;
 	overflow:hidden;
 	position:relative;
 	float:left;
@@ -259,13 +259,13 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 	align-items: top;
 }
 .swiper-container3 .swiper-slide img{ display:block; width:100%; max-width:100%; height:100%;}
-.swiper-container3_1{ width:398px; height:252px; position:absolute; bottom:0; right:0; z-index:100;}
+.swiper-container3_1{ width:398px; height:302px; position:absolute; bottom:0; right:0; z-index:100;}
 .swiper-container3 .swiper-button-prev3{ position:absolute; left:0; bottom:0; width:40px; height:40px; background:url(../images/section6_2.png) center center no-repeat #cacaca; z-index:100; cursor:pointer; overflow:hidden; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -ms-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s;}
 .swiper-container3 .swiper-button-next3{ position:absolute; left:40px; bottom:0; width:40px; height:40px; background:url(../images/section6_3.png) center center no-repeat #cacaca; z-index:100; cursor:pointer; overflow:hidden; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -ms-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s;}
 .swiper-container3 .swiper-button-prev3:hover{ background:url(../images/section6_2.png) center center no-repeat #e6212a;}
 .swiper-container3 .swiper-button-next3:hover{ background:url(../images/section6_3.png) center center no-repeat #e6212a;}
 
-.section6_3{ float:left; width:398px; height:212px; background:url(../images/section6_5.png) repeat; text-align:left;}
+.section6_3{ float:left; width:398px; height:262px; background:url(../images/section6_5.png) repeat; text-align:left;}
 .section6_4{ float:left; width:86%; margin-left:7%; margin-top:30px; font-size:24px; color:#FFF; font-weight:bold; height:44px; line-height:24px; position:relative;}
 .section6_4 span{ position:absolute; width:30px; height:1px; background:#FFF; left:0; bottom:0;}
 .section6_5{ float:left; width:84%; margin-left:7%; margin-top:15px; font-size:14px; color:#dddddd; height:96px; line-height:24px; overflow:hidden;}
