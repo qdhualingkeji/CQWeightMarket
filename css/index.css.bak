@@ -60,7 +60,7 @@
 .wrzsxtjg_div .content_div .left_div .ycgb_item_div,.wrzsxtjg_div .content_div .left_div .ecgb_item_div{
 	height:85px;
 }
-.wrzsxtjg_div .content_div .left_div .clzc_item_div{
+.wrzsxtjg_div .content_div .left_div .clzc_item_div,.wrzsxtjg_div .content_div .left_div .clxc_item_div{
 	height:90px;
 }
 .wrzsxtjg_div .content_div .left_div .qyhy_item_div{
@@ -71,6 +71,24 @@
 }
 .wrzsxtjg_div .content_div .left_div .item_div img{
 	float:right;
+}
+.wrzsxtjg_div .content_div .right_div{
+	width:900px;height:600px;margin-top:-600px;margin-left:180px;background:#0f0;
+}
+.wrzsxtjg_div .content_div .right_div .wlwg_span{
+	margin-top:100px;margin-left:20px;font-size:15px;position:absolute;
+}
+.wrzsxtjg_div .content_div .right_div .img1{
+	width: 55px;height:27px;margin-top: 123px;margin-left:60px;position: absolute;
+}
+.wrzsxtjg_div .content_div .right_div .img2{
+	margin-top: 142px;margin-left:85px;position: absolute;
+}
+.wrzsxtjg_div .content_div .right_div .gyjhj_span{
+	margin-top:203px;margin-left:9px;font-size:15px;position:absolute;
+}
+.wrzsxtjg_div .content_div .right_div .img3{
+	
 }
 
 .cpjs_div{

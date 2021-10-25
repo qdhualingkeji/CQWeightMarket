@@ -369,29 +369,29 @@ else{
 					<img src="UserFiles/FriendLink/image/20211015/202110150046.png"/>
 				</div>
 			</div>
-			<div class="right_div" style="width:900px;height:600px;margin-top:-600px;margin-left:180px;background:#0f0;">
-				<span style="margin-top:100px;margin-left:20px;font-size:15px;position:absolute;">物联网关</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150048.png" style="width: 55px;height:27px;margin-top: 123px;margin-left:60px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 142px;margin-left:85px;position: absolute;"/>
-				<span style="margin-top:203px;margin-left:9px;font-size:15px;position:absolute;">工业交换机</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150050.png" style="margin-top: 225px;margin-left:50px;position: absolute;"/>
-				<span style="margin-top:295px;margin-left:25px;font-size:15px;position:absolute;">服务器</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 241px;margin-left:85px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150051.png" style="margin-top: 324px;margin-left:50px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150052.png" style="width: 105px;height:59px;margin-top: 98px;margin-left:145px;position: absolute;"/>
-				<span style="margin-top:127px;margin-left:153px;color:#fff;font-size:15px;position:absolute;">自助发卡系统</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:193px;position: absolute;"/>
+			<div class="right_div">
+				<span class="wlwg_span">物联网关</span>
+				<img class="img1" src="UserFiles/FriendLink/image/20211015/202110150048.png"/>
+				<img class="img2" src="UserFiles/FriendLink/image/20211015/202110150049.png"/>
+				<span class="gyjhj_span">工业交换机</span>
+				<img class="img3" src="UserFiles/FriendLink/image/20211015/202110150050.png" style="margin-top: 225px;margin-left:50px;position: absolute;"/>
+				<span class="fwq_span" style="margin-top:295px;margin-left:25px;font-size:15px;position:absolute;">服务器</span>
+				<img class="img4" src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 241px;margin-left:85px;position: absolute;"/>
+				<img class="img5" src="UserFiles/FriendLink/image/20211015/202110150051.png" style="margin-top: 324px;margin-left:50px;position: absolute;"/>
+				<img class="img6" src="UserFiles/FriendLink/image/20211015/202110150052.png" style="width: 105px;height:59px;margin-top: 98px;margin-left:145px;position: absolute;"/>
+				<span class="zzfkxt_span" style="margin-top:127px;margin-left:153px;color:#fff;font-size:15px;position:absolute;">自助发卡系统</span>
+				<img class="img7" src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:193px;position: absolute;"/>
 				<span style="margin-top:43px;margin-left:278px;color:#000;font-size:18px;position:absolute;">门禁车辆进厂</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150053.png" style="margin-top: 98px;margin-left:263px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:316px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150052.png" style="width: 130px;height:73px;margin-top: 87px;margin-left:390px;position: absolute;"/>
+				<img class="img8" src="UserFiles/FriendLink/image/20211015/202110150053.png" style="margin-top: 98px;margin-left:263px;position: absolute;"/>
+				<img class="img9" src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:316px;position: absolute;"/>
+				<img class="img10" src="UserFiles/FriendLink/image/20211015/202110150052.png" style="width: 130px;height:73px;margin-top: 87px;margin-left:390px;position: absolute;"/>
 				<span style="margin-top:120px;margin-left:417px;color:#fff;font-size:20px;position:absolute;">自动称重</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:452px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150054.png" style="width: 46px;height:54px;margin-top: 163px;margin-left:495px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150055.png" style="width: 46px;height:54px;margin-top: 163px;margin-left:538px;position: absolute;"/>
+				<img class="img11" src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:452px;position: absolute;"/>
+				<img class="img12" src="UserFiles/FriendLink/image/20211015/202110150054.png" style="width: 46px;height:54px;margin-top: 163px;margin-left:495px;position: absolute;"/>
+				<img class="img13" src="UserFiles/FriendLink/image/20211015/202110150055.png" style="width: 46px;height:54px;margin-top: 163px;margin-left:538px;position: absolute;"/>
 				<span style="margin-top:43px;margin-left:635px;color:#000;font-size:18px;position:absolute;">自助收卡业务</span>
-				<img src="UserFiles/FriendLink/image/20211015/202110150056.png" style="width: 98px;height:72px;margin-top: 84px;margin-left:640px;position: absolute;"/>
-				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:685px;position: absolute;"/>
+				<img class="img14" src="UserFiles/FriendLink/image/20211015/202110150056.png" style="width: 98px;height:72px;margin-top: 84px;margin-left:640px;position: absolute;"/>
+				<img class="img15" src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 149px;margin-left:685px;position: absolute;"/>
 				<img src="UserFiles/FriendLink/image/20211015/202110150057.png" style="margin-top: 226px;margin-left:125px;position: absolute;"/>
 				<img src="UserFiles/FriendLink/image/20211015/202110150058.png" style="width: 40px;height:32px;margin-top: 219px;margin-left:132px;position: absolute;"/>
 				<img src="UserFiles/FriendLink/image/20211015/202110150050.png" style="margin-top: 219px;margin-left:210px;position: absolute;"/>
@@ -401,7 +401,7 @@ else{
 				<img src="UserFiles/FriendLink/image/20211015/202110150050.png" style="margin-top: 225px;margin-left:649px;position: absolute;"/>
 				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 241px;margin-left:246px;position: absolute;"/>
 				<img src="UserFiles/FriendLink/image/20211015/202110150059.png" style="margin-top: 275px;margin-left:161px;position: absolute;"/>
-				<span style="margin-top: 435px;margin-left:357px;font-size:20px;font-weight: bold;position: absolute;">数据管理中心</span>
+				<span style="margin-top: 435px;margin-left:190px;font-size:20px;font-weight: bold;position: absolute;">数据管理中心</span>
 				<span style="margin-top: 245px;margin-left:340px;font-size:15px;position: absolute;">局域网</span>
 				<img src="UserFiles/FriendLink/image/20211015/202110150049.png" style="margin-top: 241px;margin-left:452px;position: absolute;"/>
 				<img src="UserFiles/FriendLink/image/20211015/202110150059.png" style="margin-top: 275px;margin-left:366px;position: absolute;"/>
