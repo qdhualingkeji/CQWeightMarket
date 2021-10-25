@@ -268,7 +268,7 @@ body{ font-size:12px; font-family:微软雅黑; overflow-x: hidden;}
 .section6_3{ float:left; width:398px; height:262px; background:url(../images/section6_5.png) repeat; text-align:left;}
 .section6_4{ float:left; width:86%; margin-left:7%; margin-top:30px; font-size:24px; color:#FFF; font-weight:bold; height:44px; line-height:24px; position:relative;}
 .section6_4 span{ position:absolute; width:30px; height:1px; background:#FFF; left:0; bottom:0;}
-.section6_5{ float:left; width:84%; margin-left:7%; margin-top:15px; font-size:14px; color:#dddddd; height:96px; line-height:24px; overflow:hidden;}
+.section6_5{ float:left; width:84%; margin-left:7%; margin-top:15px; font-size:14px; color:#dddddd; height:146px; line-height:24px; overflow:hidden;}
 .section6_more{ display:block; width:122px; height:38px; line-height:38px;text-align:center; border:1px solid #d7000f; background:#d7000f; margin:1.5% auto 2.5% auto; font-size:14px; color:#FFF; opacity:1; position:relative; left:0px;}
 .section6_more:hover{ background:#FFF; color:#d7000f;}
 
