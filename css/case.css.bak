@@ -1,7 +1,7 @@
 .logo_div{
 	width:100%;
 	height:380px;
-	background: rgba(0, 0, 0, 0) url("../UserFiles/FriendLink/image/20190807/20190807153606_3378.jpg") no-repeat scroll center center;
+	background: rgba(0, 0, 0, 0) url("../UserFiles/FriendLink/image/20190807/20190807153606_3378.png") no-repeat scroll center center;
 	visibility: visible;
 	animation-duration: 1s;
 	animation-delay: 0.3s;
@@ -85,7 +85,7 @@
 }
 
 .img_list_div{
-	width:1200px;height:auto;margin:30px auto;background:#0f0;
+	width:1200px;height:auto;margin:30px auto;
 }
 .img_list_div .item_div{
 	width:400px;height:203px;
