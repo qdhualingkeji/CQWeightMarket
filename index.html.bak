@@ -419,7 +419,7 @@ else{
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <a class="section3_1">
-                        <img src="UserFiles/Product/image/20200507/20200507171107_3717.png" class="section3_2 icdkq_img" style="width:263px;height:250px;margin-left:30px;" />
+                        <img src="UserFiles/Product/image/20200507/20200507171107_3717.png" class="icdkq_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
                             <div class="section3_5">IC读卡器</div>
@@ -431,7 +431,7 @@ else{
                 
                 <div class="swiper-slide">
                     <a class="section3_1">
-                        <img src="UserFiles/Product/image/20200507/202005070001.jpg" class="section3_2" />
+                        <img src="UserFiles/Product/image/20200507/202005070001.jpg" class="cpsbsxt_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
                             <div class="section3_5">车牌号识别摄像头</div>
@@ -443,7 +443,7 @@ else{
                 
                 <div class="swiper-slide">
                     <a class="section3_1">
-                        <img src="UserFiles/Product/image/20200507/20200507171303_6067.jpg" class="section3_2" />
+                        <img src="UserFiles/Product/image/20200507/20200507171303_6067.jpg" class="cphsbytj_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
                             <div class="section3_5">车牌号识别一体机</div>
@@ -455,13 +455,11 @@ else{
                 
                 <div class="swiper-slide">
                     <a class="section3_1">
-                        <img src="UserFiles/Product/image/20200507/20200507171316_2319.jpg" class="section3_2" />
+                        <img src="UserFiles/Product/image/20200507/20200507171316_2319.jpg" class="dzld_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
-                            <div class="section3_5">电子皮带秤</div>
-                            <div class="section3_6"><p class="MsoNormal">
-	大连金马衡器有限公司生产的<span lang="EN-US">ICS</span>系列电子皮带秤是本公司应用国内外先进技术，结合使用实际而设计制造的的。具有性能先进、操作简便、安装方便、便于维护等特点。广泛应用于电力、冶金、矿山、化工、建材、粮食等行业对皮带机输送的散状物料作动态计量皮带秤使用或定量给料皮带秤使用。<span lang="EN-US"><o:p></o:p></span> 
-</p></div>
+                            <div class="section3_5">道闸雷达</div>
+                            <div class="section3_6">蓝牙模式（手机APP调试），工业级元器件，超性价比，具有屏蔽和防护功能</div>
                             <div class="section3_7">Details</div>
                         </div>
                     </a>
@@ -469,71 +467,45 @@ else{
                 
                 <div class="swiper-slide">
                     <a class="section3_1">
-                        <img src="UserFiles/Product/image/20200320/20200320164343_5584.jpg" class="section3_2" />
+                        <img src="UserFiles/Product/image/20200320/20200320164343_5584.jpg" class="hwgs_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
-                            <div class="section3_5">防爆式电子汽车衡</div>
-                            <div class="section3_6">防爆式电子汽车衡，适用于化工厂、加油站、加气站等有防爆要求的环境进行大宗货物称量的情况。&nbsp;</div>
+                            <div class="section3_5">红外光栅</div>
+                            <div class="section3_6">高档铝合金外壳，采用互射技术，杜绝各种强光引起的误报，A/B频可选，避免同频干扰。&nbsp;</div>
                             <div class="section3_7">Details</div>
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a class="section3_1">
-                        <img src="UserFiles/Product/image/20200319/20200319172912_4410.jpg" class="section3_2" />
+                        <img src="UserFiles/Product/image/20200319/20200319172912_4410.png" class="sfzydq_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
-                            <div class="section3_5">ZGU-BWL不断轨无梁式自动轨道衡-大连金马衡器</div>
-                            <div class="section3_6">ZGU-100-BWL不断轨无梁式自动轨道衡是一种对载重列车进行动态称量的计量设备，它可对行进中的载重列车不停车、不摘钩快速连续的进行动态称量；它是冶金矿山、石油化工、车站、码头、煤炭、电力行业等具有铁路运输条件的部门对列车进行动态称量的理想设备。</div>
+                            <div class="section3_5">身份证阅读器</div>
+                            <div class="section3_6">能自动识别计算机通讯端口、自动设置通讯参数、自动读卡。提供开放的应用程序接口（API）,配置带磁环的高品质USB专用线缆，传输数据快，性能稳定。</div>
                             <div class="section3_7">Details</div>
                         </div>
                     </a>
                 </div>
                 
                 <div class="swiper-slide">
-                    <a href="/Product/Content.aspx?ProductId=107" class="section3_1">
-                        <img src="UserFiles/Product/image/20200323/20200323163921_9557.jpg" class="section3_2" />
+                    <a class="section3_1">
+                        <img src="UserFiles/Product/image/20200323/20200323163921_9557.png" class="ledxsp_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
-                            <div class="section3_5">汽车衡称重管理软件</div>
-                            <div class="section3_6">网络版、单机版、用户自定义版，大连金马衡器有限公司的使用称重管理软件，是根据我公司的电子汽车衡研制开发的产品，目前广泛投入市场中，广大客户反映良好。<br />
-								<div>
-									<br />
-								</div>
-							</div>
+                            <div class="section3_5">LED显示屏</div>
+                            <div class="section3_6">适用于室内室外，无线智能控制系统，面罩平整，产品性能好，寿命长，灯珠均匀，不死灯，防尘防潮。</div>
                             <div class="section3_7">Details</div>
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="/Product/Content.aspx?ProductId=112" class="section3_1">
-                        <img src="UserFiles/Product/image/20200323/20200323181053_0427.jpg" class="section3_2" />
+                    <a class="section3_1">
+                        <img src="UserFiles/Product/image/20200323/20200323181053_0427.jpg" class="zndz_img" />
                         <img src="images/section3_7.png" class="section3_3" />
                         <div class="section3_4">
-                            <div class="section3_5">企业物流一卡通智能系统</div>
-                            <div class="section3_6">有自助机版称重系统按功能性划分，主要由以下几个小系统组成：自助收/发卡系统，数字式电子汽车衡系统，自助终端智能处理系统，IC验证系统，车号自动识别系统，图像抓拍与视频监控系统，LED显示系统，红外防作弊系统，红绿灯指示系统，语音提示系统，道闸限流系统，PDA手持终端确认等。</div>
-                            <div class="section3_7">Details</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="/Product/Content.aspx?ProductId=204" class="section3_1">
-                        <img src="UserFiles/Product/image/20201009/20201009094012_6355.jpg" class="section3_2" />
-                        <img src="images/section3_7.png" class="section3_3" />
-                        <div class="section3_4">
-                            <div class="section3_5">不停车超限超载检测系统</div>
-                            <div class="section3_6">主要用于非现场执法的治超系统将不停车动态称重、视频监控、图像抓拍及车牌识别、信息提示系统等有机集成，建立起一个全天候货运车辆超载违法行为监控系统，对货运车辆超载行为实施有效检测和监控，为交通管理部门提供治超执法依据。在车辆行驶状态中的超限超载检测，有利于提高交通效率。系统的检测数据资源可为公路行业交通量调查、路网监测等管理工作提供共享信息。</div>
-                            <div class="section3_7">Details</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="/Product/Content.aspx?ProductId=171" class="section3_1">
-                        <img src="UserFiles/Product/image/20200320/20200320163441_2407.jpg" class="section3_2" />
-                        <img src="images/section3_7.png" class="section3_3" />
-                        <div class="section3_4">
-                            <div class="section3_5">电子平台秤(小地磅)</div>
-                            <div class="section3_6">大连金马衡器有限公司生产的电子平台秤的结构为台面一般为2-5mm柳叶花纹板，防滑性能好，跟据用户需要也可做成</div>
+                            <div class="section3_5">智能道闸</div>
+                            <div class="section3_6">智能闸杆优质机体，变频电机一体化机芯，行程控制系统力矩平衡机构，蓝牙控制自动开关闸，地感模式、红外模式、排队功能，红外接口、安全气囊接口、外接按钮接口。</div>
                             <div class="section3_7">Details</div>
                         </div>
                     </a>
@@ -557,7 +529,7 @@ else{
 			loop: true
         });
         </script>
-        <a href="/Product/List.aspx?ClassId=5" class="section3_more">了解更多</a>
+        <a href="case.html" class="section3_more">了解更多</a>
 		<!--
         <div class="next_screen"><img src="images/mouse1.png" /></div>
 		-->
@@ -654,7 +626,7 @@ else{
 					<img class="img2" src="UserFiles/FriendLink/image/20211015/202110150031.png" />
 					<div class="img3_div">
 						<img src="UserFiles/FriendLink/image/20211015/202110150032.png" />
-						<div class="text_div">06</div>
+						<div class="text_div bf_text_div">06</div>
 					</div>
 				</div>
 				<div class="item_div">
@@ -666,7 +638,7 @@ else{
 					<img class="img2" src="UserFiles/FriendLink/image/20211015/202110150034.png" />
 					<div class="img3_div">
 						<img src="UserFiles/FriendLink/image/20211015/202110150032.png" />
-						<div class="text_div">04</div>
+						<div class="text_div zjcy_text_div">04</div>
 					</div>
 				</div>
 				<div class="item_div">
@@ -678,7 +650,7 @@ else{
 					<img class="img2" src="UserFiles/FriendLink/image/20211015/202110150036.png" />
 					<div class="img3_div">
 						<img src="UserFiles/FriendLink/image/20211015/202110150032.png" />
-						<div class="text_div">02</div>
+						<div class="text_div xgbm_text_div">02</div>
 					</div>
 				</div>
 			</div>
@@ -686,7 +658,7 @@ else{
 				<div class="item_div">
 					<div class="img1_div">
 						<img src="UserFiles/FriendLink/image/20211015/202110150032.png" />
-						<div class="text_div">05</div>
+						<div class="text_div ck_text_div">05</div>
 					</div>
 					<img class="img2" src="UserFiles/FriendLink/image/20211015/202110150037.png" />
 					<div class="cont_bg_div">
@@ -698,7 +670,7 @@ else{
 				<div class="item_div">
 					<div class="img1_div">
 						<img src="UserFiles/FriendLink/image/20211015/202110150032.png" />
-						<div class="text_div">03</div>
+						<div class="text_div bf_text_div">03</div>
 					</div>
 					<img class="img2" src="UserFiles/FriendLink/image/20211015/202110150039.png" />
 					<div class="cont_bg_div">
@@ -710,7 +682,7 @@ else{
 				<div class="item_div">
 					<div class="img1_div">
 						<img src="UserFiles/FriendLink/image/20211015/202110150032.png" />
-						<div class="text_div">01</div>
+						<div class="text_div mg_text_div">01</div>
 					</div>
 					<img class="mengang_img2" src="UserFiles/FriendLink/image/20211015/202110150041.png" />
 					<div class="cont_bg_div">

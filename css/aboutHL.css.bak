@@ -12,21 +12,21 @@
 }
 
 .qyzz_div{
-	width:100%;margin-top:10px;background-color: #f7f7f7;
+	width:100%;margin-top:10px;background-color: #f7f7f7;padding:1px;
 }
 .qyzz_div .zs_list_div{
-	width:800px;margin:30px auto;
+	width:1000px;margin:30px auto;
 }
 .qyzz_div .zs_list_div .item_div{
 	width:260px;height:340px;text-align:center;border:#147EE5 solid 2px;
 }
 .qyzz_div .zs_list_div .item2_div{
 	margin-top:-344px;
-	margin-left:280px;
+	margin-left:375px;
 }
 .qyzz_div .zs_list_div .item3_div{
 	margin-top:-344px;
-	margin-left:560px;
+	margin-left:735px;
 }
 .qyzz_div .zs_list_div .item1_div img{
 	width:226px;height:307px;margin-top:15px;
@@ -88,16 +88,17 @@
 }
 .lxfs_div {
     width: 970px;
-    margin: 10px auto 30px;
+    margin: 20px auto 30px;
 }
 .lxfs_div .title_div {
     line-height: 30px;
     color: #333;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
 }
 .lxfs_div .row_div {
     line-height: 30px;
+    font-size: 15px;
 }
 
 .foot_div{
