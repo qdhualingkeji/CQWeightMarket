@@ -390,7 +390,7 @@ else{
 			<div class="down_div">
 				<div class="item_div ycgb_item_div">
 					<div class="title_div">一次过磅</div>
-					<img class="" src="UserFiles/FriendLink/image/20211015/202110150045.png"/>
+					<img src="UserFiles/FriendLink/image/20211015/202110150045.png"/>
 				</div>
 				<div class="item_div ecgb_item_div">
 					<div class="title_div">二次过磅</div>
