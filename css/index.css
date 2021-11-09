@@ -236,14 +236,16 @@
 .cpjs_div .content_div .img_div{
 	width:1200px;
 }
+.cpjs_div .content_div .img_div img{
+	border:#0065C2 solid 2px;
+}
 .cpjs_div .content_div .img_div .left_img{
 	width:640px;
 	height:233px;
-	border:#0065C2 solid 2px;
 }
 .cpjs_div .content_div .img_div .right_img{
-	width: 528px;
-	height:237px;
+	width: 522px;
+	height:234px;
 	margin-left:20px;
 }
 .cpjs_div .content_div .sm_list_div{
