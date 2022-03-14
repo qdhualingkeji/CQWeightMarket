@@ -240,13 +240,13 @@
 	border:#0065C2 solid 2px;
 }
 .cpjs_div .content_div .img_div .left_img{
-	width:640px;
+	width:520px;
 	height:233px;
 }
 .cpjs_div .content_div .img_div .right_img{
 	width: 522px;
 	height:234px;
-	margin-left:20px;
+	float: right;
 }
 .cpjs_div .content_div .sm_list_div{
 	width:100%;
